@@ -21,6 +21,10 @@
 3. Since MATLAB does not have a '0' index, the dataset is prepared to map it to '10'
 
 ![dataset](/dataset.png)
+![5](/5.png)
+![7](/7.png)
+![8](/8.png)
+
 
 ## Accuracy
 1. multi-class classification (regularized one-vs-all logistic regression) - 95.02%
