@@ -4,6 +4,8 @@
 > - multi-class classification (regularized one-vs-all logistic regression)
 > - neural networks (feed-forward propagation algorithm)
 
+![nn_forward_prop](/Desktop/nn_for.png)
+
 ## Steps to run the application
 1. clone the git repo on your local
 2. install MATLAB/Octave
