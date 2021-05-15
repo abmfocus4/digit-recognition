@@ -10,7 +10,7 @@
 1. clone the git repo on your local
 2. install MATLAB/Octave
 3. cd in the **<em>code</em>** dir
-4. run one_vs_all.m to use regularized one-vs-all logistic regression or run nn.m to use neural networks with feed-forward propagation algorithm 
+4. run one_vs_all.m to use regularized one-vs-all logistic regression or run nn_forward.m to use neural networks with feed-forward propagation algorithm 
 
 ## Motivation
 ### Handwritten digit recognition is widely used around the globe across several industries for identifying postal codes, catalog bank checks etc.
