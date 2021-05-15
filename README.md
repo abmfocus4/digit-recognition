@@ -21,8 +21,14 @@
 3. Since MATLAB does not have a '0' index, the dataset is prepared to map it to '10'
 
 ![dataset](/dataset.png)
+
+- Number 5
 ![5](/5.png)
+
+- Number 7
 ![7](/7.png)
+
+- Number 8
 ![8](/8.png)
 
 
