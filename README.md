@@ -4,7 +4,7 @@
 > - multi-class classification (regularized one-vs-all logistic regression)
 > - neural networks (feed-forward propagation algorithm)
 
-![nn_forward_prop](/nn_layers.png)
+![nn_forward_prop](/pics/nn_layers.png)
 
 ## Steps to run the application
 1. clone the git repo on your local
@@ -20,16 +20,16 @@
 2. Each individual training example is 20x20 pixel grayscale image of the digit.
 3. Since MATLAB does not have a '0' index, the dataset is prepared to map it to '10'
 
-![dataset](/dataset.png)
+![dataset](/pics/dataset.png)
 
 - Number 5
-![5](/5.png)
+![5](/pics/5.png)
 
 - Number 7
-![7](/7.png)
+![7](/pics/7.png)
 
 - Number 8
-![8](/8.png)
+![8](/pics/8.png)
 
 
 ## Accuracy
