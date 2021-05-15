@@ -20,6 +20,8 @@
 2. Each individual training example is 20x20 pixel grayscale image of the digit.
 3. Since MATLAB does not have a '0' index, the dataset is prepared to map it to '10'
 
+![dataset](/dataset)
+
 ## Accuracy
 1. multi-class classification (regularized one-vs-all logistic regression) - 95.02%
 2. neural networks with feed-forward propagation algorithm - 97.52%
