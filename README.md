@@ -1,16 +1,16 @@
 #  Digit Recognition
 
 > ### This program identifies hand-written numbers using two learning agorithms
-> - multi-class classification (regularized one-vs-all logistic regression)
-> - neural networks (feed-forward propagation algorithm)
+> - multi-class classification using regularized one-vs-all logistic regression
+> - neural networks using feed-forward/backward propagation
 
-![nn_forward_prop](/pics/nn_layers.png)
+![nn_layers](/pics/nn_layers.png)
 
 ## Steps to run the application
 1. clone the git repo on your local
 2. install MATLAB/Octave
 3. cd in the **<em>code</em>** dir
-4. run one_vs_all.m to use regularized one-vs-all logistic regression or run nn_forward.m to use neural networks with feed-forward propagation algorithm 
+4. run one_vs_all.m to use regularized one-vs-all logistic regression or run nn.m to use neural networks with feed-forward/backward propagation 
 
 ## Motivation
 ### Handwritten digit recognition is widely used around the globe across several industries for identifying postal codes, catalog bank checks etc.
@@ -33,8 +33,8 @@
 
 
 ## Accuracy
-1. multi-class classification (regularized one-vs-all logistic regression) - 95.02%
-2. neural networks with feed-forward propagation algorithm - 97.52%
+1. multi-class classification using regularized one-vs-all logistic regression - 95.02%
+2. neural networks with feed-forward/backward propagation - 97.52%
 
 
 
